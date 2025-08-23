@@ -1,4 +1,4 @@
-## Plant Growth Classification
+## Plant Growth Classification Using ML
 
 ### Project Overview
 
